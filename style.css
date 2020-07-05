@@ -36,36 +36,6 @@ IMPORTS
     font-weight: normal;
 }
 
-@font-face {
-    font-family: Sports-EA-Sports;
-    src: url(https://gand.art.br/wp-content/themes/twentynineteen-child/fonts/Sports-EA-Sports.ttf);
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: RobotoSlab-Regular;
-    src: url(https://gand.art.br/wp-content/themes/twentynineteen-child/fonts/RobotoSlab-Regular.ttf);
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: RobotoSlab-Light;
-    src: url(https://gand.art.br/wp-content/themes/twentynineteen-child/fonts/RobotoSlab-Light.ttf);
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: RobotoSlab-Thin;
-    src: url(https://gand.art.br/wp-content/themes/twentynineteen-child/fonts/RobotoSlab-Thin.ttf);
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: RobotoSlab-Bold;
-    src: url(https://gand.art.br/wp-content/themes/twentynineteen-child/fonts/RobotoSlab-Bold.ttf);
-    font-weight: normal;
-}
-
 html {
   font-size: 16px;
   margin: 0px;
